@@ -1,7 +1,4 @@
-# arrayCount_Edited.asm
-# Ansel Lim's code (A0091493Y)
-
-  .data
+ .data
 welcome: .asciiz "\nWelcome to this program. This program implements the following problem: Count the number of multiples of X in a given array of 8 non-negative numbers, where X is a user chosen power-of-two value, e.g. 1, 2, 4, 8, ...."
 # arrayA: .word 32, 16, 30, 23, 36, 18, 6, 48   # arrayA has 8 values
 arrayA: .word 11, 0, 31, 22, 9, 17, 6, 9
